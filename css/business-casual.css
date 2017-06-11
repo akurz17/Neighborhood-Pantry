@@ -77,6 +77,11 @@ hr {
     margin-right: auto;
 }
 
+.img-center {
+    display: block;
+    margin: auto;
+}
+
 .brand-before,
 .brand-name {
     text-transform: capitalize;
